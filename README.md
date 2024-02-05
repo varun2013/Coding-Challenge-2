@@ -1,7 +1,7 @@
 
 # Node.js Express Server
 
-This is a simple Node.js server using the Express framework with basic functionality for routing, error handling, and request logging.
+This is a simple Node.js server with basic functionality for routing, error handling, and request logging.
 
 ## Setup Instructions
 
